@@ -1,1 +1,1 @@
-# 생활코딩 web1_HTML1
+# 생활코딩 web1_HTML
