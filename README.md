@@ -1,2 +1,2 @@
-# 생활코딩 web1_HTML
+# 생활코딩 eb1_HTML
 HTML, CSS 코딩
